@@ -1,0 +1,126 @@
+/* variables  */
+/* line 7, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  font-family: 'Calibri', 'Verdana', sans-serif;
+  background: #BA2A76; }
+
+/* line 15, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+.container {
+  max-width: 960px;
+  padding: 1em;
+  margin: 7px auto;
+  color: #212121;
+  background: ivory;
+  border-radius: 10px;
+  overflow: auto; }
+
+/* line 25, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+header {
+  margin-bottom: 20px; }
+
+/* line 29, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+header {
+  font-size: 0.875em;
+  text-align: center; }
+  /* line 32, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+  header h4 {
+    color: #D32F2F;
+    margin: 0; }
+
+/* line 38, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+ul {
+  list-style: circle; }
+
+/* line 42, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+h1 {
+  font-size: 2.5em; }
+
+/* line 46, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+h2 {
+  font-size: 2.25em; }
+
+/* line 50, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+h3 {
+  font-size: 1.75em; }
+
+/* line 54, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+h5 {
+  font-size: 1.125em; }
+
+/* line 64, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+em,
+th {
+  color: #D32F2F;
+  margin: 0; }
+
+/* line 69, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+hr {
+  margin-top: 2px;
+  margin-bottom: 10px;
+  border-color: #D32F2F;
+  border-width: 3px;
+  border-style: solid; }
+
+/* line 77, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+p {
+  padding-left: 20px; }
+
+/* line 81, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+h1 {
+  text-align: center; }
+
+/* line 85, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+th {
+  width: 50%; }
+
+/* line 89, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+td {
+  vertical-align: top;
+  padding-left: 20px; }
+
+/* line 94, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+td ul {
+  list-style: none; }
+
+/* line 98, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+li {
+  margin-top: 2px;
+  margin-left: 10px; }
+
+/* line 103, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+a {
+  color: #BA2A76;
+  text-decoration: none; }
+
+/* line 108, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+a:hover {
+  text-decoration: underline;
+  color: #D32F2F; }
+
+/* line 113, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+a:visited {
+  color: #D32F2F; }
+
+/* line 117, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+.left {
+  float: left; }
+
+/* line 121, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+.right {
+  float: right;
+  text-align: right;
+  font-weight: 600; }
+
+/* line 127, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/styles.scss */
+.head {
+  clear: both; }
+
+/*# sourceMappingURL=styles.css.map */

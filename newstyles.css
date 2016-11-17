@@ -1,0 +1,129 @@
+/* variables  */
+/* line 9, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  font-family: 'Calibri', 'Verdana', sans-serif;
+  background: #02733C; }
+
+/* line 17, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+table {
+  border: 1px solid #00643C; }
+
+/* line 21, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+.container {
+  max-width: 960px;
+  padding: 1em;
+  margin: 7px auto;
+  color: #123456;
+  background: ivory;
+  border-radius: 10px;
+  overflow: auto; }
+
+/* line 31, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+header {
+  margin-bottom: 20px;
+  color: orange; }
+  /* line 34, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+  header h4 {
+    font-size: 0.875em;
+    text-align: center; }
+
+/* line 40, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+ul {
+  list-style: circle; }
+
+/* line 44, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+h1 {
+  font-size: 2.5em; }
+
+/* line 48, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+h2 {
+  font-size: 2.25em; }
+
+/* line 52, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+h3 {
+  font-size: 1.75em; }
+
+/* line 56, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+h4 {
+  font-size: 1.5em; }
+
+/* line 60, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+h5 {
+  font-size: 1.125em; }
+
+/* line 70, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+h1,
+h2,
+h3,
+h5,
+em,
+th {
+  color: #00643C;
+  margin: 0; }
+
+/* line 75, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+hr {
+  margin-top: 2px;
+  margin-bottom: 10px;
+  border-color: #00643C;
+  border-width: 3px;
+  border-style: solid; }
+
+/* line 83, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+p {
+  padding-left: 20px; }
+
+/* line 87, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+h1 {
+  text-align: center; }
+
+/* line 91, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+th {
+  width: 50%; }
+
+/* line 95, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+td {
+  vertical-align: top;
+  padding-left: 20px; }
+
+/* line 100, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+td ul {
+  list-style: none; }
+
+/* line 104, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+li {
+  margin-top: 2px;
+  margin-left: 10px; }
+
+/* line 109, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+a {
+  color: #00643C;
+  text-decoration: none; }
+
+/* line 114, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+a:hover {
+  text-decoration: underline;
+  color: #02733C; }
+
+/* line 119, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+a:visited {
+  color: #04CC6A; }
+
+/* line 123, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+.left {
+  float: left; }
+
+/* line 127, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+.right {
+  float: right;
+  text-align: right;
+  font-weight: 600; }
+
+/* line 133, /Volumes/DATA/Users/pkennedy/Documents/public_html/Resume/newstyles.scss */
+.head {
+  clear: both; }
+
+/*# sourceMappingURL=newstyles.css.map */
